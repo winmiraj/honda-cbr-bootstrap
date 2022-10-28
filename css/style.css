@@ -1,0 +1,77 @@
+.honda-bg{
+    background-color: #264653;
+}
+.hunda-h1{
+    color: #FFFFFF;
+}
+p{
+    color: #E0E0E0;
+    font-weight: 400;
+    font-size: 16px;
+}
+.header-bike{
+    width: 75%;
+}
+.btn-btn-bg{
+    width: 168px;
+    height: 44px;
+    background-color: #E76F51;
+    color: #FFFFFF;
+}
+.modal-p{
+    color: black;
+}
+h1{
+    color: #000000;
+}
+small p{
+    color: #E76F51;
+}
+.hunda-img{
+    width: 288px;
+    height: 243px;
+    padding: 20px;
+}
+.hunda-grayscale{
+    filter: grayscale(100%);
+}
+.bike-p{
+    color: #6C6C6C;
+    font-size: 16px;
+}
+.btn-btn-bike{
+ background-color: #E76F51;
+ border-radius: 5px;
+ color: #FFFFFF;
+ font-size: 18px;
+ font-weight: 500;
+ padding: 8px 25px;
+ border: none;
+}
+.btn-bike{
+ border: 1px solid #E76F51;
+ background-color: white;
+ border-radius: 5px;
+ color: #E76F51;
+ font-size: 18px;
+ font-weight: 500;
+ padding: 8px 25px;
+}
+.span-color{
+    color:#E76F51 ;
+}
+.happy-img{
+padding: 20px 65px;
+}
+.fa-solid{
+    color: #E77C40
+}   
+.star-bg{
+    color: #E77C40;
+}
+.miles-p{
+    color: #23A6F0;
+}
+h6{
+    color: #252B42;
+}
